@@ -10,18 +10,18 @@
 
 ## 示例图
 
-![image](https://github.com/user-attachments/assets/a7e8dc7b-b915-4d11-ac6d-4a20f9dd3303)
-![image](https://github.com/user-attachments/assets/96427567-baf2-407f-b136-449e45165029)
-![image](https://github.com/user-attachments/assets/f6340763-c7cf-4055-a1de-78de30c8a288)
-![image](https://github.com/user-attachments/assets/3ab373e5-7d3c-4e46-9763-5c02cfe433ae)
+<img src="https://github.com/user-attachments/assets/a7e8dc7b-b915-4d11-ac6d-4a20f9dd3303" width="150" />
+<img src="https://github.com/user-attachments/assets/96427567-baf2-407f-b136-449e45165029" width="150" />
+<img src="https://github.com/user-attachments/assets/f6340763-c7cf-4055-a1de-78de30c8a288" width="150" />
+<img src="https://github.com/user-attachments/assets/3ab373e5-7d3c-4e46-9763-5c02cfe433ae" width="150" />
 
 ## 作者
 有问题可以在issue进行交流
 ### 联系
 如若侵权 或 项目开发 请联系微信：lpsssk
-![102487ced4cadfcf7709b2f0a068119c](https://github.com/user-attachments/assets/c676f28a-cc43-4521-8dbc-4352fcaa017c)
+<img src="https://github.com/user-attachments/assets/c676f28a-cc43-4521-8dbc-4352fcaa017c" width="150" />
 ### 打赏
-支付宝：![image](https://github.com/user-attachments/assets/2005d2c0-14fc-4c97-8ada-40dc7514b47d)
+支付宝：<img src="https://github.com/user-attachments/assets/2005d2c0-14fc-4c97-8ada-40dc7514b47d" width="150" />
 
 ## 技术栈
 
