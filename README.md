@@ -3,6 +3,7 @@
 ![丰巢快递助手](https://img.shields.io/badge/版本-1.0.0-blue)
 ![AI辅助开发](https://img.shields.io/badge/AI辅助开发-Claude_3.7-purple)
 ![开发时间](https://img.shields.io/badge/开发周期-2天-green)
+![python](https://img.shields.io/badge/版本-3.13.0-blue)
 
 这是一个基于Vue和FastAPI开发的丰巢快递查询和开箱助手，帮助用户快速查看、管理和取出快递。
 
@@ -10,7 +11,7 @@
 
 ### 后端
 
-- Python FastAPI
+- Python FastAPI  [python版本可向下兼容 开发环境为3.13.0版本]
 - 使用 RESTful API 设计
 - 加密方式: RSA + MD5 + Base64
 - Uvicorn 异步服务器
