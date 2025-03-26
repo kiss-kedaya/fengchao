@@ -6,6 +6,7 @@
 ![python](https://img.shields.io/badge/版本-3.13.0-blue)
 
 这是一个基于Vue和FastAPI开发的丰巢快递查询和开箱助手，帮助用户快速查看、管理和取出快递。
+项目地址： [点我传送](https://github.com/telegramtool/fengchao) 
 
 ## 示例图
 
@@ -14,6 +15,13 @@
 ![image](https://github.com/user-attachments/assets/f6340763-c7cf-4055-a1de-78de30c8a288)
 ![image](https://github.com/user-attachments/assets/3ab373e5-7d3c-4e46-9763-5c02cfe433ae)
 
+## 作者
+有问题可以在issue进行交流
+### 联系
+如若侵权 或 项目开发 请联系微信：lpsssk
+![102487ced4cadfcf7709b2f0a068119c](https://github.com/user-attachments/assets/c676f28a-cc43-4521-8dbc-4352fcaa017c)
+### 打赏
+支付宝：![image](https://github.com/user-attachments/assets/2005d2c0-14fc-4c97-8ada-40dc7514b47d)
 
 ## 技术栈
 
