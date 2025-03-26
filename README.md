@@ -5,7 +5,8 @@
 ![开发时间](https://img.shields.io/badge/开发周期-2天-green)
 ![python](https://img.shields.io/badge/版本-3.13.0-blue)
 
-这是一个基于Vue和FastAPI开发的丰巢快递查询和开箱助手，帮助用户快速查看、管理和取出快递。
+这是一个基于Vue和FastAPI开发的丰巢快递查询和开箱助手，帮助用户快速查看、管理和取出快递。  
+web前端为响应式，手机端显示无异常  
 项目地址： [点我传送](https://github.com/telegramtool/fengchao) 
 
 ## 示例图
