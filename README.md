@@ -67,7 +67,7 @@
 1. 克隆仓库
 
 ```bash
-git clone https://github.com/yourusername/fengchao.git
+git clone https://github.com/telegramtool/fengchao.git
 cd fengchao
 ```
 
