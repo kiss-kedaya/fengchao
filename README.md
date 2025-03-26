@@ -7,6 +7,14 @@
 
 这是一个基于Vue和FastAPI开发的丰巢快递查询和开箱助手，帮助用户快速查看、管理和取出快递。
 
+## 示例图
+
+![image](https://github.com/user-attachments/assets/a7e8dc7b-b915-4d11-ac6d-4a20f9dd3303)
+![image](https://github.com/user-attachments/assets/96427567-baf2-407f-b136-449e45165029)
+![image](https://github.com/user-attachments/assets/f6340763-c7cf-4055-a1de-78de30c8a288)
+![image](https://github.com/user-attachments/assets/3ab373e5-7d3c-4e46-9763-5c02cfe433ae)
+
+
 ## 技术栈
 
 ### 后端
