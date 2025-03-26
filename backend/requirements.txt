@@ -1,0 +1,6 @@
+fastapi==0.95.1
+uvicorn==0.22.0
+requests==2.26.0
+pycryptodome==3.10.1
+python-multipart==0.0.6
+cryptography==39.0.1 
