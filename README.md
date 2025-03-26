@@ -68,7 +68,7 @@ web前端为响应式，手机端显示无异常
 1. 克隆仓库
 
 ```bash
-git clone https://github.com/telegramtool/fengchao.git
+git clone https://github.com/kiss-kedaya/fengchao.git
 cd fengchao
 ```
 
